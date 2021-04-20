@@ -1,0 +1,66 @@
+/*****************************
+CSS COMMUN
+*****************************/
+
+h3{
+    font-size: 18px;
+}
+
+p{
+    font-size: 14px;
+}
+/*****************************
+CSS INDEX - HOMEPAGE
+*****************************/
+
+.details-oeuvre{
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 12px;
+}
+
+#mea-o1, #mea-o4{
+    background: url("../img/oeuvre_mea_01.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+#mea-o2, #mea-o3{
+    background: url("../img/oeuvre_mea_02.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+
+
+.icon-concept{
+    font-size: 4rem;
+    border: 6px solid #000;
+    border-radius: 50%;
+}
+
+#focus{
+    background: url("../img/focus-bg.jpg")no-repeat;
+    background-size: cover;
+    height: 400px;
+    color: #FFF;
+}
+
+.quotes{
+    font-size: 4rem;
+}
+
+
+#focus h2{
+    font-style: italic;
+}
+.quotes-r{
+    font-size: 4rem;
+}
+
+.img-artiste{
+    width: 68px;
+}
+/*****************************
+CSS FOOTER
+*****************************/
